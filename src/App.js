@@ -753,10 +753,10 @@ const Portfolio = () => {
               <p className="text-gray-400 text-sm break-all">gvinaybackend.developer@gmail.com</p>
             </a>
             
-            <a href="tel:+919121747154" className="bg-gradient-to-br from-[#161b22] to-[#1a1f3a] p-6 rounded-2xl border border-gray-800 hover:border-[#38ef7d] transition-all transform hover:scale-105 hover:shadow-2xl hover:shadow-[#38ef7d]/20 group">
+            <a href="tel:+919573352052" className="bg-gradient-to-br from-[#161b22] to-[#1a1f3a] p-6 rounded-2xl border border-gray-800 hover:border-[#38ef7d] transition-all transform hover:scale-105 hover:shadow-2xl hover:shadow-[#38ef7d]/20 group">
               <Phone className="w-10 h-10 text-[#38ef7d] mx-auto mb-3 group-hover:scale-110 transition-transform" />
               <p className="text-white font-semibold mb-2">Phone</p>
-              <p className="text-gray-400 text-sm">+91 9121747154</p>
+              <p className="text-gray-400 text-sm">+91 9573352052</p>
             </a>
             
             <div className="bg-gradient-to-br from-[#161b22] to-[#1a1f3a] p-6 rounded-2xl border border-gray-800 hover:border-[#667eea] transition-all transform hover:scale-105 hover:shadow-2xl hover:shadow-[#667eea]/20 group">
